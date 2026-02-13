@@ -15,6 +15,15 @@ USAF veteran, nuclear ops. Cave pilot turned AI product builder.
 
 ---
 
+### Coming Soon
+---
+
+| Project | Description | Key Tech |
+|---------|-------------|----------|
+| [PerpDashboard](https://perpdashboard.com) | Multi-DEX perpetual futures analytics explorer | Real-time trade feeds, WebSocket streaming, on-chain indexing, pluggable DEX adapters |
+
+---
+
 ### Technical Focus
 
 **RAG Architecture** — Production multi-persona retrieval with citation-backed responses and conversation memory. Dual-index design for MechanicGPT to eliminate cross-domain noise. Chunking strategies, metadata filtering, hybrid search.
