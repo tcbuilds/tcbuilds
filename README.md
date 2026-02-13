@@ -10,7 +10,7 @@ USAF veteran, nuclear ops. Cave pilot turned AI product builder.
 | [Can I Take This?](https://canitakethis.com) | Drug & supplement interaction checker | LLM analysis with structured medical data validation |
 | [ConflictBrief](https://conflictbrief.com) | Automated OSINT intelligence | Real-time ingestion, AI severity classification |
 | [Best4That](https://best4that.com) | AI product recommendations | LLM comparison engine, n8n orchestration |
-| [Hunter Passport](https://hunterpassport.app) | Digital hunting license management | OCR extraction, document processing |
+| [Hunter Passport](https://hunterpassport.com) | Digital hunting license management | OCR extraction, document processing |
 | [Phireso](https://phireso.com) | Studio-quality AI photo generation | AI image generation, Stripe SaaS |
 
 ---
