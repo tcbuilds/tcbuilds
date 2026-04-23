@@ -42,4 +42,4 @@ Product repos are private. Select projects pinned below.
 
 ---
 
-*Building at [Golden Horizons Studio](https://goldenhorizons.io)*
+*Building at [Golden Horizons](https://goldenhorizons.io)*
