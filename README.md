@@ -26,6 +26,9 @@ USAF veteran, nuclear ops. Cave pilot turned AI engineer building distributed sy
 
 ### Other Live Projects
 
+- **[Golden Eval](https://eval.goldenhorizons.io)** — Tells you whether an LLM is good enough to ship. Runs versioned test sets through 100+ models on OpenAI, Anthropic, and OpenRouter, scores each response across 34 quality and safety checks, and flags the best tradeoffs between accuracy, cost, and speed.
+  Stack: `Python · LLM-as-Judge · Pydantic · Async · NIST AI RMF`
+
 - **ChainGuard** — AI-powered smart-contract auditor. Slither static analysis plus a RAG knowledge base of historical exploits feed layered LLM reasoning, producing Markdown, JSON, and PDF audit reports from one CLI invocation.
   Stack: `Python · Slither · RAG · Anthropic · OpenAI`
 
@@ -47,9 +50,6 @@ USAF veteran, nuclear ops. Cave pilot turned AI engineer building distributed sy
 ---
 
 ### In Progress
-
-- **[Golden Eval](https://eval.goldenhorizons.io)** — Tells you whether an LLM is good enough to ship. Runs versioned test sets through 100+ models on OpenAI, Anthropic, and OpenRouter, scores each response across 34 quality and safety checks, and flags the best tradeoffs between accuracy, cost, and speed.
-  Stack: `Python · LLM-as-Judge · Pydantic · Async · NIST AI RMF`
 
 - **[PhiSynth](https://phisynth.com)** — Instant synthetic focus groups for creators and startups. Demographically-conditioned AI personas score concepts via Semantic Similarity Rating (SSR) — Likert scores plus qualitative feedback in seconds.
   Stack: `Next.js · TypeScript · LLM · Embeddings · SSR`
