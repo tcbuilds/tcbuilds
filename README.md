@@ -1,4 +1,4 @@
-USAF veteran, nuclear ops. Cave pilot turned AI engineer building distributed systems and AI-augmented developer workflows at [Golden Horizons](https://goldenhorizons.io). Live portfolio at [timothychoice.com](https://timothychoice.com). 🛠️
+Cave pilot turned AI engineer. USAF Veteran. Nuclear ops. Building AI internal/external tooling, apps, workflows, and distributed systems at [Golden Horizons](https://goldenhorizons.io). Live portfolio at [timothychoice.com](https://timothychoice.com). 🛠️
 
 ---
 
