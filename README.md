@@ -57,7 +57,7 @@ Cave pilot turned AI engineer. USAF Veteran. Nuclear ops. Building AI internal/e
 - 🧪 **[PhiSynth](https://phisynth.com)** — Instant synthetic focus groups for creators and startups. Demographically-conditioned AI personas score concepts via Semantic Similarity Rating (SSR) — Likert scores plus qualitative feedback in seconds.
   Stack: `Next.js · TypeScript · LLM · Embeddings · SSR`
 
-- 🎭 **[Parleywell](https://parleywell.com)** — Voice + text AI role-play simulation for high-stakes professional training. Composable scenario factors drive multi-persona LLM agents with debrief against scenario rubrics.
+- 🗣️ **[Parleywell](https://parleywell.com)** — Rehearse any high-stakes conversation — career, sales, hard personal talks — against AI personas, then get a debrief. Voice + text; composable scenario factors drive multi-persona LLM agents.
   Stack: `TypeScript · LLM · Voice AI · Supabase · Next.js`
 
 - 🚑 **MedDash** — Driver-first PWA for 1099 medical couriers. Tracks mileage, chain-of-custody, and HIPAA-compliant proof-of-delivery — built to grow into a two-sided medical-courier marketplace.
